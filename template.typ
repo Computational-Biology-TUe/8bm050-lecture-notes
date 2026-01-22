@@ -149,7 +149,7 @@ set page(
 
 pagebreak(to: "odd")
 
-image("assets/logo.svg", width: 15%)
+image("assets/8bm050-logo.svg", width: 35%)
 
 block(width: 100%, inset: (top: 2pt, bottom: 2pt), text(18pt, font: head, weight: "medium", fill: theme.text, title))
 
