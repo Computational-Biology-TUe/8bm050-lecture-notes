@@ -14,7 +14,7 @@
   ),
   date: datetime.today(),
   internal: "8BM050 - Systems Biology Models",
-  copyright: [Version 1.0.1, 2025-2026
+  copyright: [Version 1.0.2, 2025-2026
     
 © 2025 Max de Rooij. All rights reserved.
 
@@ -32,6 +32,7 @@ Parts of these lecture notes, in particular the first chapter on dynamic models,
 - v0.2.2: Added chapter 6 on whole-body models.
 - v1.0.0: Full revision of the lecture notes for academic year 2025-2026
 - v1.0.1: Added short chapter on Sensitivity Analysis.
+- v1.0.2: Small corrections.
 ],
 
   department: "Department of Biomedical Engineering",

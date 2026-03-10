@@ -174,7 +174,7 @@ align(
       ])
       linebreak()
       text(9pt, font: font, weight: 400, theme.text, [
-        #box(height: 12pt, image("icons/github-mark.svg"), clip: true, baseline: 25%) #h(0.5em) #link("https://github.com/8BM050/lecture-notes", [8BM050/lecture-notes])
+        #box(height: 12pt, image("icons/github-mark.svg"), clip: true, baseline: 25%) #h(0.5em) #link("https://github.com/Computational-Biology-TUe/8bm050-lecture-notes", [Computational-Biology-TUe/8bm050-lecture-notes])
       ])
     } else {
       []
